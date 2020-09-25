@@ -1,5 +1,13 @@
 div {
-    background-color: blueviolet;
+    background-color: orangered;
     height: 300px;
     width: 400px;
+    border-radius: 15px;
+}
+span {
+    display: block;
+    height: 600px;
+    width: 400px;
+    border-radius: 15px;
+    background-color: blue;
 }
